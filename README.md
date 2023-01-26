@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-**JonathanSanMiguel/JonathanSanMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 - 🔭 I’m currently lookin for a job<br>- 🌱 I’m currently learning 
 
