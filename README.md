@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **JonathanSanMiguel/JonathanSanMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
@@ -23,7 +23,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
+
 [![](https://visitcount.itsvg.in/api?id=JonathanSanMiguel&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
