@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently lookin for a job<br>- 🌱 I’m currently learning 
+- 🔭 I’m currently in a job<br>- 🌱 I’m currently learning 
 
 
 ## 🌐 Socials:
